@@ -31,6 +31,10 @@ To complete study you need to:
 [[images/Header.jpg]]
 
 
+![image010.jpg](https://raw.githubusercontent.com/fotovakschool/fotovakschool.github.io/master/images/image010.jpg)
+
+
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
